@@ -13,3 +13,32 @@
     box-shadow: 5px 5px 5px grey;
     padding: 10px;
 }
+.btn{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    box-shadow: 5px 5px #999;
+}
+.footer{
+    width: 100%;
+    background: royalblue;
+    color: snow;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    line-height: 30px;
+}
+canvas{
+    border: solid 5px whitesmoke;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    text-align: center;
+}
